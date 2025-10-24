@@ -13,7 +13,6 @@ import { NextResponse } from 'next/server';
 
  	return data;
  }
-
 export async function GET() {
    
    try {
